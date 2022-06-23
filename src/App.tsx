@@ -1,9 +1,7 @@
-
+import { Event } from "./pages/Event";
 
 function App() {
-  return (
-    <h1>New Project</h1>
-  );
+  return <Event />;
 }
 
 export default App;
